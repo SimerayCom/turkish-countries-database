@@ -13,7 +13,7 @@ Using the isActive column, you can make it active and inactive with the values 1
 
 # TR: Türkçe Ülkeler Veritabanı
 
-İngilizce dilinde ülkelerin isimlerine, kodlarına ve kısaltmalarına ihtiyaç duyanlar için hazırlanmıştır.
+Türkçe dilinde ülkelerin isimlerine, kodlarına ve kısaltmalarına ihtiyaç duyanlar için hazırlanmıştır.
 
 Kolay bir şekilde import ederek kullanabilirsiniz.
 
