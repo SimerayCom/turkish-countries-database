@@ -30,7 +30,7 @@ isActive sütununu kullanarak 1 ve 0 değerleri ile aktif ve pasif yapabilirsini
 - Country Name
 - Country Status
 
-## TR: Features
+## TR: Özellikler
 - 249 Ülke
 - Ülke Adı Dili
 - Ülke Adı Dili Tam Adı
